@@ -1,5 +1,7 @@
 er_flow
 ==============================
+abhishek bhattacharya | akul arora | blake duffy
+
 
 Simulation of Emergency Department patient flow
 
